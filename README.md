@@ -14,7 +14,7 @@ I host a show about Bazel and its ecosystem.
 
 ## 🥬 Making Bazel universally adoptable
 
-- Founded Aspect.build, a premier services and SaaS company in Developer Tooling.
+- Founded [Aspect.build](https://www.aspect.build/), a premier services and SaaS company in Developer Tooling.
 - Brought the Bazel conference and technical projects to Linux Foundation.
 - Authored or co-authored many language extensions, including JavaScript/TypeScript, Docker/OCI, as well as utilities such as tar.
 - Organize and lead the community, mentor contributors and steer evolution and design.
